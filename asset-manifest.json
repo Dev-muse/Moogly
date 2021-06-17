@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Moogly/static/css/main.260abbe4.chunk.css",
+    "main.js": "/Moogly/static/js/main.b43f5caf.chunk.js",
+    "main.js.map": "/Moogly/static/js/main.b43f5caf.chunk.js.map",
+    "runtime-main.js": "/Moogly/static/js/runtime-main.c6a1d9a8.js",
+    "runtime-main.js.map": "/Moogly/static/js/runtime-main.c6a1d9a8.js.map",
+    "static/js/2.22838ec1.chunk.js": "/Moogly/static/js/2.22838ec1.chunk.js",
+    "static/js/2.22838ec1.chunk.js.map": "/Moogly/static/js/2.22838ec1.chunk.js.map",
+    "index.html": "/Moogly/index.html",
+    "static/css/main.260abbe4.chunk.css.map": "/Moogly/static/css/main.260abbe4.chunk.css.map",
+    "static/js/2.22838ec1.chunk.js.LICENSE.txt": "/Moogly/static/js/2.22838ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a1d9a8.js",
+    "static/js/2.22838ec1.chunk.js",
+    "static/css/main.260abbe4.chunk.css",
+    "static/js/main.b43f5caf.chunk.js"
+  ]
+}
